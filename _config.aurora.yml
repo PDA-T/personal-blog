@@ -220,8 +220,8 @@ busuanzi:
 copy_protection:
   enable: true
   author:
-    cn: PDA
-    en: PDA
+    cn: 作者
+    en: author
   link:
     cn: 本文来自于
     en: Article is from
