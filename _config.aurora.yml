@@ -137,9 +137,9 @@ socials:
       icon: https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/svg/telegram.svg
       link: https://t.me/threada
 
-    Facebook:
-      icon: https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/svg/facebook.svg
-      link: https://www.facebook.com/profile.php?id=100085879686751
+#    Facebook:
+#      icon: https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/svg/facebook.svg
+#      link: https://www.facebook.com/profile.php?id=100085879686751
 
     QQ:
       icon: https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/svg/qq.svg
